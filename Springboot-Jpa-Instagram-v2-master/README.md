@@ -91,9 +91,3 @@ spring:
 file:
   path: C:/src/instaclone/insta/src/main/resources/upload/
 ```
-
-#### 4. Blog 주소
-<https://blog.naver.com/getinthere/221728643538>
-
-#### 5. Youtube 주소
-<https://www.youtube.com/watch?v=LD-1629X4jA>
